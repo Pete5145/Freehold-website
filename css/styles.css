@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+}
+section.bg-image{
+    background-image: url(../images/banner1.jpg);
+    min-height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+section.bg-image2{
+    background-image: url(../images/banner1.jpg);
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+nav.bg-light{
+   background-color: rgba(187, 184, 184, 0) !important;
+}
+a{
+    color: white !important;
+}
+a:hover{
+    color: rgb(216, 108, 8) !important;    
+}
+.container-fluid .dropdown-menu li a.dropdown-item{
+    color: black !important;
+}
+.container-fluid .dropdown-menu li a.dropdown-item:hover{
+    color: rgb(216, 108, 8) !important;
+}
+a.navbar-brand{
+    font-size: 35px;
+    border: 1px solid white;
+    padding: 0 20px;
+    margin-top: 15px;
+}
+.navbar-nav{
+    margin: 25px auto;
+    padding: 25px ;
+    justify-content: space-between !important;
+}
+.nav-item{
+    margin-left: 40px;
+    font-family: "Open sans";
+    font-weight: bold;
+}
+
+button.navbar-toggler{
+    background-color: white;
+}
+.img-header{
+    color: white;
+    padding: 70px 90px;
+}
+.container .about-header{
+    margin-top: 50px;
+    color: #4357AD;
+    text-align: center;
+}
+.container .house-img{
+    width: 500px;
+    height: 400px;
+    box-shadow: 0px 6px 22px 0px rgba(31,27,27,0.49);
+}
+.container .circle-box h4{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(13, 13, 148);
+    border-radius: 50%;
+    color: white;
+    /* padding: 10px 10px; */
+}
+.container h2{
+    color:  rgb(133, 69, 9);
+    padding: 10px 0;
+}
+.container h4{
+    color:  rgb(133, 69, 9);
+    text-align: center;
+    padding-top: 10px;
+}
+.footer{
+    width: 100%;
+    min-height: 100px;
+    background-color: rgba(1, 1, 20, 0.95);
+    margin-top: 45px;
+    padding: 50px;
+}
+.footer h3{
+    color: white;
+    padding-bottom: 30px;
+}
+.footer p{
+    color: rgb(175, 173, 173);
+}
+.footer .quick-link0{
+    padding: 0 90px;
+}
+.footer .quick-link1{
+    border-left:2px solid white;
+    padding: 0 90px;
+}
+.footer .quick-link2{
+    border-left:2px solid white;
+    padding: 0 90px;
+}
+.container .home-h3{
+    color: #4357AD;
+    padding: 15px 5px;
+}
+section.bg-image3{
+   background-image: url(../images/ser.jpg);
+   min-height: 550px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: top;
+}
+.transparent-container{
+    width: 650px;
+    min-height: 550px;
+    background-color: rgba(2, 2, 2, 0.7) !important;
+}
+.colored-word{
+    color:rgb(194, 96, 4);
+}
+.trans-text{
+    padding: 40px 30px;
+    text-align: justify;
+}
+.white-text{
+    color: rgb(190, 184, 184);
+    padding: 10px 30px;
+    text-align: justify;
+}
+section.bg-image4{
+    background-image: url(../images/11.jpg);
+    min-height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    margin-top: 70px;
+ }
+ .blue-bg{
+     background-color: #A8D5E2;
+     min-height: 300px;
+ }
+ .blue-header{
+     color: #4357AD;
+ }
+ .sky-blue-text{
+     padding: 100px 30px;
+ }
+ .icon-color{
+     background-color: rgb(194, 96, 4);
+ }
+ .orange-icon{
+     color: rgb(194, 96, 4);
+ }
+ .home-icon{
+     border: 1px solid white;
+     padding: 10px;
+ }
